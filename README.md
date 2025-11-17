@@ -67,7 +67,7 @@ I partner deeply with Product, Design, Infrastructure, and People Ops to ensure 
 ---
 
 ## Certifications & Professional Development
-- **SAFe Leading SAFe 6.0 (Certified)**  
+- **Certified SAFe® Agilist 6**  
 
 ---
 
