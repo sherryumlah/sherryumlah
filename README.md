@@ -39,7 +39,7 @@ I partner deeply with Product, Design, Infrastructure, and People Ops to ensure 
 - Delivered major initiatives like:
   - Migration from Braintree to Stripe for billing + payments  
   - Revamp of pricing and packaging to include a new premium level tier
-  - Granular RBAC using Pundit  
+  - Revamp of permissions system to use more granular RBAC using Pundit  
   - Zapier GraphQL API integration to expand the ecosystem  
   - Internal developer platform improvements that cut onboarding time and reduced operational burden
 - Created outcome-oriented frameworks for planning, estimation, reliability, and team health  
