@@ -83,5 +83,5 @@ While I’m not applying for hands-on coding roles, I stay deeply technical:
 ## Let’s Connect
 If you’re hiring for a people-first EM or TPM — or building a culture where clarity, trust, and alignment matter — I’d love to talk.
 
-- **LinkedIn:** [https://www.linkedin.com/in/sherryumlah/](https://www.linkedin.com/in/sherryumlah/)]  
+- **LinkedIn:** [https://www.linkedin.com/in/sherryumlah/](https://www.linkedin.com/in/sherryumlah/)  
 - **Website:** [https://rubberduckleader.com](https://rubberduckleader.com)  
