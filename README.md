@@ -52,7 +52,7 @@ I partner deeply with Product, Design, Infrastructure, and People Ops to ensure 
 - **flash-cards**: A study tool focused on Leading SAFe Agile certification (or any topic based on decks of Q&A cards)
 - **RocksForGood**: A geocaching-style nonprofit concept blending creativity, philanthropy, and community  
 - **Rubber Duck Leader**: A leadership brand, website, and resource hub for engineering managers  
-- **Interactive Hardware & Art Projects**: Raspberry Pi prototypes, Arduino sensors, pixel-light animation, [Holiday Light Show](https://www.mokenalights.com)
+- **Interactive Hardware & Art Projects**: Raspberry Pi prototypes, Arduino sensors, pixel-light animation
 
 ---
 
