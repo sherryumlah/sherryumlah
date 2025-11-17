@@ -67,16 +67,16 @@ I partner deeply with Product, Design, Infrastructure, and People Ops to ensure 
 ---
 
 ## Certifications & Professional Development
-- **Certified SAFe® Agilist 6**  
+- Certified SAFe® Agilist 6  
 
 ---
 
 ## Tools & Technologies I Work With
-While I’m not applying for hands-on coding roles, I stay deeply technical:
-- **React**, **React Native**, **Expo**, **TypeScript**, **Node**, **Tailwind**, **Vite**
-- **GitHub Actions**, **CI/CD**, **Postgres/SQLite**
-- **Raspberry Pi**, **Arduino**, **sensor-driven interactive systems**
-- **SaaS product architecture**, **integration ecosystems**, **GraphQL/REST APIs**
+While I’m not applying for hands-on coding roles, I stay technical:
+- React, React Native, Expo, TypeScript, Node, Tailwind, Vite
+- GitHub Actions, CI/CD, Postgres/SQLite
+- Raspberry Pi, Arduino, sensor-driven interactive systems
+- SaaS product architecture, integration ecosystems, GraphQL/REST APIs
 
 ---
 
