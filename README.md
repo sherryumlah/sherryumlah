@@ -72,7 +72,6 @@ I partner deeply with Product, Design, Infrastructure, and People Ops to ensure 
 ---
 
 ## Tools & Technologies I Work With
-While I’m not applying for hands-on coding roles, I stay technical:
 - React, React Native, Expo, TypeScript, Node, Tailwind, Vite
 - GitHub Actions, CI/CD, Postgres/SQLite
 - Raspberry Pi, Arduino, sensor-driven interactive systems
