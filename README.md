@@ -1,4 +1,4 @@
-# Hi, I’m Sherry — a Learning Experience Designer & Learning Program Leader who builds engaging, scalable learning systems
+# Hi, I’m Sherry — a Learning Program Leader and Developer who builds engaging, scalable learning systems
 
 I design and deliver **learner-centered, interactive learning experiences** that help people build confidence and understand complex ideas. With 20+ years spanning **e-learning development, instructional design, and SaaS product engineering**, I bring a rare blend of **learning design, technical fluency, and program leadership** to online education and training initiatives.
 
