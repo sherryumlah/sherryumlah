@@ -10,7 +10,7 @@ I thrive in mission-driven environments where collaboration fuels innovation and
 
 ---
 
-## Tools, Technologies, & Education
+## Education
 - Certification, SAFe® Agilist 6, Scaled Agile  
 - Bachelor's Degree, Mobile Media Programming
 - Associate of Applied Science, Digital Media
